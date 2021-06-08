@@ -2,7 +2,7 @@
 ## Проект выполнил: Илюченко Сергей
 
 В проекте используются:
--HTML;
--CSS;
--Javascript;
--Normalize
+- HTML
+- CSS
+- Javascript
+- Normalize
